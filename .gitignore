@@ -1,0 +1,9 @@
+*.log
+*.txt
+*.zip
+*.rar
+*.gz
+php_errors.log
+protected/runtime
+/assets
+/tmp
